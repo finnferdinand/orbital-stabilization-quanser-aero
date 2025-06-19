@@ -1,6 +1,11 @@
 # Control Design and Robustification via Orbital-Stabilization Methods
 This repository contains supplementary material for the thesis "Control Design and Robustification via Orbital-Stabilization Methods: with Application to 2-DOF Helicopter Control".
 
+
+https://github.com/user-attachments/assets/f0195d4e-967b-46f6-bf60-07342d613934
+
+The video is showing a robust controller using the methods developed in the thesis.
+
 ## Contents
 
 The following is contained in the repository:
