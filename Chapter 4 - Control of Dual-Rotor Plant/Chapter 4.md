@@ -11,6 +11,7 @@ The following is contained in this folder:
 - [Dynamic Coupling](Dynamic%20Coupling/Dynamic%20Coupling.md)
 - [Experimental Results](Experimental%20Results/Experimental%20Results.md)
 - [Model Verification](Model%20Verification/Model%20Verification.md)
+- [Modeling](Modeling/Modeling.md)
 - [Observer Design](Observer%20Design/Observer%20Design.md)
 - [Pitch Coefficients](Pitch%20Coefficients/Pitch%20Coefficients.md)
 - [Thrust Coefficients](Thrust%20Coefficients/Thrust%20Coefficients.md)

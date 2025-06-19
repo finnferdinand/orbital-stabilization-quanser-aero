@@ -16,6 +16,7 @@ The following is contained in the repository:
     - [Dynamic Coupling](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Dynamic%20Coupling/Dynamic%20Coupling.md)
     - [Experimental Results](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Experimental%20Results/Experimental%20Results.md)
     - [Model Verification](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Model%20Verification/Model%20Verification.md)
+    - [Modeling](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Modeling/Modeling.md)
     - [Observer Design](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Observer%20Design/Observer%20Design.md)
     - [Pitch Coefficients](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Pitch%20Coefficients/Pitch%20Coefficients.md)
     - [Thrust Coefficients](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Thrust%20Coefficients/Thrust%20Coefficients.md)
