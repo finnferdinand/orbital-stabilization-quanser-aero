@@ -1,5 +1,5 @@
 # Pitch Coefficients
 
-This folder contains the Simulink diagram used for gathering data used to
-estimate the damping coefficient of the pitch dynamics and the center of
-mass.
+[Return to Chapter 4](../Chapter%204.md)
+
+This folder contains the Simulink diagram used for gathering data and collected measurements used to estimate the damping coefficient of the pitch dynamics and the center of mass position.
