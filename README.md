@@ -19,4 +19,4 @@ The following is contained in the repository:
     - [Pitch Coefficients](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Pitch%20Coefficients/Pitch%20Coefficients.md)
     - [Thrust Coefficients](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Thrust%20Coefficients/Thrust%20Coefficients.md)
     - [Yaw Coefficients](Chapter%204%20-%20Control%20of%20Dual-Rotor%20Plant/Yaw%20Coefficients/Yaw%20Coefficients.md)
-
+- [Videos](Videos/Videos.md)
